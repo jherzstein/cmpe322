@@ -25,7 +25,7 @@
 (require 'org-ref-url-utils)
 
 ;; export citations (bibtex2html must be installed)
-(require 'ox-bibtex)
+;;(require 'ox-bibtex)
 
 ;; Load publishing system
 (require 'ox-publish)
