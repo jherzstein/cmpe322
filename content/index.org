@@ -1,2 +1,0 @@
-#+TITLE: CMPE322 Project Flight Simulator
-hi
