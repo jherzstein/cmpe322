@@ -16,7 +16,7 @@
 ;; Install dependencies
 (package-install 'htmlize)
 (package-install 'org-ref)
-(package-install 'ox-bibtex)
+;;(package-install 'ox-bibtex)
 ;;(use-package simple-httpd
 ;;  :ensure t)
 
