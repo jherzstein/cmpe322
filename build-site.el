@@ -15,21 +15,21 @@
 
 ;; Install dependencies
 (package-install 'htmlize)
-(package-install 'org-ref)
+;;(package-install 'org-ref)
 ;;(package-install 'ox-bibtex)
 ;;(use-package simple-httpd
 ;;  :ensure t)
 
 ;; basic requirements for org-ref usage
-(require 'org-ref)
-(require 'org-ref-url-utils)
+;;(require 'org-ref)
+;;(require 'org-ref-url-utils)
 
 ;; export citations (bibtex2html must be installed)
 ;;(require 'ox-bibtex)
 
 ;; Load publishing system
 (require 'ox-publish)
-(require 'ox-rss)
+;;(require 'ox-rss)
 
 ;; Customize HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
