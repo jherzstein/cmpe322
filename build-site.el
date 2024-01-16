@@ -1,22 +1,22 @@
 ;; Set the package installation directory so that packages aren't stored in the
 ;; ~/.emacs.d/elpa path.
 (require 'package)
-(require 'cl)
+;;(require 'cl)
 (setq package-user-dir (expand-file-name "./.packages"))
 (setq package-archives '(("melpa" . "https://melpa.org/packages/")
 			 ("org" . "https://orgmode.org/elpa/")
 			 ("gnu-elpa" . "https://elpa.gnu.org/packages/")))
-(add-to-list 'load-path "./.packages/org-mode/contrib/lisp/")
-(add-to-list 'exec-path "/usr/bin/bibtex2html")
+;;(add-to-list 'load-path "./.packages/org-mode/contrib/lisp/")
+;;(add-to-list 'exec-path "/usr/bin/bibtex2html")
 ;; Initialize the package system
 (package-initialize)
 (unless package-archive-contents
   (package-refresh-contents))
 
 ;; Install dependencies
-;;(package-install 'htmlize)
+(package-install 'htmlize)
 (package-install 'org-ref)
-;;(package-install 'ox-bibtex)
+(package-install 'ox-bibtex)
 ;;(use-package simple-httpd
 ;;  :ensure t)
 
@@ -25,11 +25,11 @@
 (require 'org-ref-url-utils)
 
 ;; export citations (bibtex2html must be installed)
-;;(require 'ox-bibtex)
+(require 'ox-bibtex)
 
 ;; Load publishing system
 (require 'ox-publish)
-;;(require 'ox-rss)
+(require 'ox-rss)
 
 ;; Customize HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
