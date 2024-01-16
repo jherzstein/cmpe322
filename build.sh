@@ -5,7 +5,7 @@ if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 then
     git add .
     git commit -m "auto updating site"
-    git push origin master
+    git push origin main 
 else
     exit 0
 fi
