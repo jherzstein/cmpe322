@@ -1,2 +1,2 @@
 #+TITLE: CMPE322 Project Flight Simulator
-#+INCLUDE: "~/Website/content/base.org::*Header" :only-contents t
+#+INCLUDE: "./base.org::*Header" :only-contents t
