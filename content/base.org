@@ -12,7 +12,7 @@
     </span>
       -
     <span class="menu">
-      <a href="/.html">assignments</a>
+      <a href="/assignments.html">assignments</a>
     </span>
       -
     <span class="menu">

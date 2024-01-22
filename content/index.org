@@ -1,4 +1,2 @@
 #+TITLE: CMPE322 Project Flight Simulator
-hello
-hi
-hello
+#+INCLUDE: "~/Website/content/base.org::*Header" :only-contents t
