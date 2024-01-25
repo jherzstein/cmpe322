@@ -7,6 +7,14 @@
 FlightGear is a completely free and open-source flight simulator, supported for a wide variety of operating systems such as Windows, MacOS, Linux, and FreeBSD. Since 1997, FlightGear has been developed with the goal to create a sophisticated flight simulator that can be used by researchers, pilot trainee's, engineers, and enthusiasts alike. The open-source nature of the project allows anyone with the desire to learn or contribute develop and build their own projects on top of the simulator. FlightGear is fundamentally a community project developed by vontunteers world-wide. The goal of the team's project is to analyze the software architecture of the project, present its findingds, and suggest enhancements to the project.
 
 * Relevant Links
+** Official FlightGear Resources
 - [[https://www.flightgear.org/][FlightGear Website]]
 - [[https://wiki.flightgear.org/Main_Page][FlightGear Wiki]]
 - [[https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/][FlightGear Source Code on Sourceforge]]
+** Books
+- [[https://www.oreilly.com/library/view/flight-simulation-software/9781119737674/?sso_link=yes&sso_link_from=queens-university][Flight Simulation Software]]
+- [[https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685662][Principles of Flight Simulation]]
+** Scientific Papers
+- [[https://ieeexplore.ieee.org/document/5364558][Architecture Development of Research Flight Simulator Based on COTS]]
+- [[https://ieeexplore.ieee.org/document/8356168][Automated Testing of Simulation Software in the Aviation Industry: An Experience Report]]
+- [[https://ieeexplore.ieee.org/document/9336527][Flight Simulator Architecture and Computer System Design and Research]]
