@@ -4,7 +4,7 @@
 
 
 * About Flight Gear
-FlightGear is a completely free and open-source flight simulator, supported for a wide variety of operating systems such as Windows, MacOS, Linux, and FreeBSD. Since 1997, FlightGear has been developed with the goal to create a sophisticated flight simulator that can be used by researchers, pilot trainee's, engineers, and enthusiasts alike. The open-source nature of the project allows anyone with the desire to learn or contribute develop and build their own projects on top of the simulator. FlightGear is fundamentally a community project developed by vontunteers world-wide. The goal of the team's project is to analyze the software architecture of the project, present its findingds, and suggest enhancements to the project.
+FlightGear is a completely free and open-source flight simulator, supported for a wide variety of operating systems such as Windows, MacOS, Linux, and FreeBSD. Since 1997, FlightGear has been developed with the goal to create a sophisticated flight simulator that can be used by researchers, pilot trainee's, engineers, and enthusiasts alike. The open-source nature of the project allows anyone with the desire to learn or contribute develop and build their own projects on top of the simulator. FlightGear is fundamentally a community project developed by vontunteers world-wide. The goal of the team's project is to analyze the software architecture of the project, present its findings, and suggest enhancements to the project.
 
 * Relevant Links
 ** Official FlightGear Resources
