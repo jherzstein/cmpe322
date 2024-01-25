@@ -11,7 +11,7 @@
 - github: [[https://github.com/campbelllove][campbelllove]]
 ** Jasper Lim (Presenter)
 - email: [[mailto:21jcl6@queensu.ca][21jcl6@queensu.ca]]
-- github: [[https://github.com/JasperCLim][JasperClim]]
+- github: [[https://github.com/JasperCLim][JasperCLim]]
 ** Chirstopher Seguin Bianchi
 ** Laurie Yuzichuk
 ** Cameron Bennett
