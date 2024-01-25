@@ -1,0 +1,17 @@
+#+TITLE: Flight 404 Not found 
+#+OPTIONS: toc:nil
+#+INCLUDE: "./base.org::*Header" :only-contents t
+* Contact
+** Jordan Herzstein (Team Leader)
+- email: [[mailto:19jfh1@queensu.ca][19jfh1@queensu.ca]]
+- github: [[https://github.com/jherzstein][jherzstein]]
+- website: [[jordanherzstein.xyz][jordanherzstein.xyz]]
+** Campbell Love (Presenter)
+- email: [[mailto:19cl92@queensu.ca][19cl92@queensu.ca]]
+- github: [[https://github.com/campbelllove][campbelllove]]
+** Jasper Lim (Presenter)
+- email: [[mailto:21jcl6@queensu.ca][21jcl6@queensu.ca]]
+- github: [[https://github.com/JasperCLim][JasperClim]]
+** Chirstopher Seguin Bianchi
+** Laurie Yuzichuk
+** Cameron Bennett
