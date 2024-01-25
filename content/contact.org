@@ -5,7 +5,7 @@
 ** Jordan Herzstein (Team Leader)
 - email: [[mailto:19jfh1@queensu.ca][19jfh1@queensu.ca]]
 - github: [[https://github.com/jherzstein][jherzstein]]
-- website: [[jordanherzstein.xyz][jordanherzstein.xyz]]
+- website: [[https://jordanherzstein.xyz][jordanherzstein.xyz]]
 ** Campbell Love (Presenter)
 - email: [[mailto:19cl92@queensu.ca][19cl92@queensu.ca]]
 - github: [[https://github.com/campbelllove][campbelllove]]
