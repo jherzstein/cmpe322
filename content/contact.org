@@ -13,5 +13,7 @@
 - email: [[mailto:21jcl6@queensu.ca][21jcl6@queensu.ca]]
 - github: [[https://github.com/JasperCLim][JasperCLim]]
 ** Chirstopher Seguin Bianchi
+- email: [[mailto:19cjsb@queensu.ca][19cjsb@queensu.ca]]
+- github: [[https://github.com/glucose01][glucose01]]
 ** Laurie Yuzichuk
 ** Cameron Bennett
