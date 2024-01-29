@@ -16,4 +16,6 @@
 - email: [[mailto:19cjsb@queensu.ca][19cjsb@queensu.ca]]
 - github: [[https://github.com/glucose01][glucose01]]
 ** Laurie Yuzichuk
+- email: [[mailto:20lvy@queensu.ca][20lvy@queensu.ca]]
+- github: [[https://github.com/Kazifrost][Kazifrost]]
 ** Cameron Bennett
