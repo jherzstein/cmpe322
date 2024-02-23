@@ -1,0 +1,85 @@
+#+DESCRIPTION: Base
+#+OPTIONS: num:nil ^:{}
+* Header
+* Header
+#+BEGIN_EXPORT html
+<div class="header">
+  <style>
+    .header{text-align: center;}
+  </style>
+  <div class="menu-container">
+    <span class="menu">
+      <a href="/">home</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="/.html">assignments</a>
+    </span>
+      -
+    </span>
+      -
+    <span class="menu">
+      <a href="/contact.html">contact</a>
+    </span>
+  </div>
+</div> 
+
+#+END_EXPORT* Header
+#+BEGIN_EXPORT html
+<div class="header">
+  <style>
+    .header{text-align: center;}
+  </style>
+  <div class="menu-container">
+    <span class="menu">
+      <a href="/">home</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="/blog/blog.html">blog</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="/mysetup.html">setup</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="https://github.com/jherzstein">projects</a>
+    </span>
+    -
+    <span class="menu">
+      <a href="/contact.html">contact</a>
+    </span>
+  </div>
+</div> 
+
+#+END_EXPORT* Header
+#+BEGIN_EXPORT html
+<div class="header">
+  <style>
+    .header{text-align: center;}
+  </style>
+  <div class="menu-container">
+    <span class="menu">
+      <a href="/">home</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="/blog/blog.html">blog</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="/mysetup.html">setup</a>
+    </span>
+      -
+    <span class="menu">
+      <a href="https://github.com/jherzstein">projects</a>
+    </span>
+    -
+    <span class="menu">
+      <a href="/contact.html">contact</a>
+    </span>
+  </div>
+</div> 
+
+#+END_EXPORT

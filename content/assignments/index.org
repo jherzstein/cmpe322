@@ -1,0 +1,7 @@
+#+TITLE: Flight 404 Not Found
+#+OPTIONS: toc:nil
+#+INCLUDE: "../base.org::*Header" :only-contents t
+* Assignments
+** A1
++ [[./A1_CMPE322_Report.pdf][Report]]
++ [[./A1 Presentation.pdf][Presentation]]
