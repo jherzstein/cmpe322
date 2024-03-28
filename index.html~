@@ -32,22 +32,22 @@
   </div>
 </div> 
 
-<div id="outline-container-org5add720" class="outline-2">
-<h2 id="org5add720">About Flight Gear</h2>
-<div class="outline-text-2" id="text-org5add720">
+<div id="outline-container-org2ee843d" class="outline-2">
+<h2 id="org2ee843d">About Flight Gear</h2>
+<div class="outline-text-2" id="text-org2ee843d">
 <p>
 FlightGear is a completely free and open-source flight simulator, supported for a wide variety of operating systems such as Windows, MacOS, Linux, and FreeBSD. Since 1997, FlightGear has been developed with the goal to create a sophisticated flight simulator that can be used by researchers, pilot trainee's, engineers, and enthusiasts alike. The open-source nature of the project allows anyone with the desire to learn or contribute develop and build their own projects on top of the simulator. FlightGear is fundamentally a community project developed by vontunteers world-wide. The goal of the team's project is to analyze the software architecture of the project, present its findings, and suggest enhancements to the project.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org66ffd79" class="outline-2">
-<h2 id="org66ffd79">Relevant Links</h2>
-<div class="outline-text-2" id="text-org66ffd79">
+<div id="outline-container-org9a468a6" class="outline-2">
+<h2 id="org9a468a6">Relevant Links</h2>
+<div class="outline-text-2" id="text-org9a468a6">
 </div>
-<div id="outline-container-org535522d" class="outline-3">
-<h3 id="org535522d">Official FlightGear Resources</h3>
-<div class="outline-text-3" id="text-org535522d">
+<div id="outline-container-orgce12aff" class="outline-3">
+<h3 id="orgce12aff">Official FlightGear Resources</h3>
+<div class="outline-text-3" id="text-orgce12aff">
 <ul class="org-ul">
 <li><a href="https://www.flightgear.org/">FlightGear Website</a></li>
 <li><a href="https://wiki.flightgear.org/Main_Page">FlightGear Wiki</a></li>
@@ -55,18 +55,18 @@ FlightGear is a completely free and open-source flight simulator, supported for 
 </ul>
 </div>
 </div>
-<div id="outline-container-orga585912" class="outline-3">
-<h3 id="orga585912">Books</h3>
-<div class="outline-text-3" id="text-orga585912">
+<div id="outline-container-org3faa4d1" class="outline-3">
+<h3 id="org3faa4d1">Books</h3>
+<div class="outline-text-3" id="text-org3faa4d1">
 <ul class="org-ul">
 <li><a href="https://www.oreilly.com/library/view/flight-simulation-software/9781119737674/?sso_link=yes&amp;sso_link_from=queens-university">Flight Simulation Software</a></li>
 <li><a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9780470685662">Principles of Flight Simulation</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org809c483" class="outline-3">
-<h3 id="org809c483">Scientific Papers</h3>
-<div class="outline-text-3" id="text-org809c483">
+<div id="outline-container-orgf3b0cba" class="outline-3">
+<h3 id="orgf3b0cba">Scientific Papers</h3>
+<div class="outline-text-3" id="text-orgf3b0cba">
 <ul class="org-ul">
 <li><a href="https://ieeexplore.ieee.org/document/5364558">Architecture Development of Research Flight Simulator Based on COTS</a></li>
 <li><a href="https://ieeexplore.ieee.org/document/8356168">Automated Testing of Simulation Software in the Aviation Industry: An Experience Report</a></li>
